@@ -98,7 +98,7 @@ function update_cart() {
 }
 // Xóa giỏ hàng
 function del_cart() {
-    $redirect = $_GET[$redirect];
+    // $redirect = $_GET[$redirect];
     $prd_id = $_GET["id"];
     $id_size = $_GET["id_size"];
     unset($_SESSION["cart"][$prd_id][$id_size]);

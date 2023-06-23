@@ -197,7 +197,7 @@
                     ?>
                 <div class="banner mt-5">
                     
-                    <img src="public/images/<?= $item['image_cate']?>" width="1519" alt="">
+                    <img src="public/images/<?= $item['image_cate']?>" width="100%" alt="">
                 </div>
                 <div class="category_information">
                     <button class="btn  open" id="toggle_button">More Information</button>
