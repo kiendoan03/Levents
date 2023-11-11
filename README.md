@@ -5,7 +5,7 @@ There're some images of my product
 
 Home page
 
-![home](https://github.com/kiendoan03/Levents_clone/assets/110959854/8c6e216a-be2a-47ff-90a9-476300f33a7c)
+![localhost_Final_project1_](https://github.com/kiendoan03/Levents_clone/assets/110959854/8472b77c-7c26-424f-9b96-403337447c20)
 
 Category page
 ![cate](https://github.com/kiendoan03/Levents_clone/assets/110959854/12a1d976-81f3-49ad-8927-e32fef12786f)
